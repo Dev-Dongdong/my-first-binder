@@ -1,5 +1,5 @@
-numpy
-jupytext
+numpy==1.25.0
+jupytext==1.16.0
 jupyterlab
 python
 matplotlib-base
