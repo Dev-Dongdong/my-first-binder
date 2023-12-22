@@ -1,1 +1,7 @@
 numpy==1.25.0
+jupytext
+jupyterlab
+python
+numpy
+matplotlib-base
+ipympl
